@@ -6,7 +6,7 @@ No security audit has been performed.
 
 There are currently 3 interesting things
  
-* [Terra-Rust](https://github.com/PFC-Validator/terra-rust/blob/main/src/main.rs) A cross-platform CLI tool
+* [Terra-Rust](https://github.com/curest0x1021/terra-rust/blob/main/src/main.rs) A cross-platform CLI tool
 * [Terra-Rust-API](https://crates.io/crates/terra-rust-api) an API you can integrate into your own code
 * [Terra-Rust-Wallet](https://crates.io/crates/terra-rust-wallet) a secure OS agnostic wallet, using [keyring](https://crates.io/crates/keyring)
 
@@ -59,11 +59,4 @@ $ terra-rust wallet create default
 ```
 $ terra-rust --help
 ```
-If you think this was useful, feel free to delegate to the [PFC](https://station.terra.money/validator/terravaloper12g4nkvsjjnl0t7fvq3hdcw7y8dc9fq69nyeu9q) validator. It will help defray the costs.
 
-[PFC](https://twitter.com/PFC_Validator) - Terra/Luna is Pretty Freaking Cool right... feel free to drop me a line 
-
-# Contribute
-Feel free to submit patches/comments/Pull Requests.
-
-We have also set up a [Discord](https://discord.gg/zKVWs4HhJD) channel to discuss this, and other PFC things
