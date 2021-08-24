@@ -19,16 +19,6 @@ This is not investment advice.
 
 Do your own research
 
-
-# Help ?
-There is a [CLI](https://github.com/pfc-validator/terra-rust) that uses this, which may be helpful.
-
-We have also set up a [Discord](https://discord.gg/zKVWs4HhJD) channel to discuss this, and other PFC things
-
-If you think this was useful, feel free to delegate to the [PFC](https://station.terra.money/validator/terravaloper12g4nkvsjjnl0t7fvq3hdcw7y8dc9fq69nyeu9q) validator. It will help defray the costs.
-
-[PFC](https://twitter.com/PFC_Validator) - Terra/Luna is Pretty Freaking Cool right... feel free to drop me a line 
-
 # An Example
 ```rust
 use terra_rust_api::{Terra, GasOptions, PrivateKey};
@@ -63,4 +53,3 @@ let resp = terra.submit_transaction_sync(
 
 # Docs 
 * [API Documentation](https://docs.rs/terra-rust-api)
-* see [Change log](https://github.com/PFC-Validator/terra-rust/blob/main/terra-rust-api/Changelog.md) for more detailed change summaries

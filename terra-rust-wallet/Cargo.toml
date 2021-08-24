@@ -1,13 +1,13 @@
 [package]
 name = "terra-rust-wallet"
 version = "0.1.5"
-authors = ["PFC-Validator <PFC-Validator@protonmail.com>"]
+authors = ["Curest0x <curest.trebow@gmail.com>"]
 edition = "2018"
 license = "Apache-2.0"
 description="Terra Rust API"
 readme = "README.md"
-homepage = "https://github.com/PFC-Validator/terra-rust/tree/main/terra-rust-wallet"
-repository = "https://github.com/PFC-Validator/terra-rust/"
+homepage = "https://github.com/curest0x1021/terra-rust/tree/main/terra-rust-wallet"
+repository = "https://github.com/curest0x1021/terra-rust/"
 keywords = ["terra", "blockchain"]
 categories = ["api-bindings"]
 documentation = "https://docs.rs/terra-rust-wallet"
